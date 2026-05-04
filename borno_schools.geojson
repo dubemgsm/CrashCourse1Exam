@@ -1,0 +1,863 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1402776,
+          11.8157927
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "name": "School Women Primary-Secondary",
+        "id": 5604720211,
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1421148,
+          11.8115512
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "name": "Mara Imul Iman - Islamic School",
+        "id": 5604720219,
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1521293,
+          11.8061584
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "name": "Mara Imul Iman - Islamic School",
+        "id": 5604725421,
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1532222,
+          11.8300548
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "id": 5604821208,
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1555649,
+          11.8412804
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "name": "Mala Kachallah Model School",
+        "id": 5604821219,
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1636650,
+          11.8404725
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "id": 5604833626,
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1718387,
+          11.8265768
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "id": 5604833633,
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7826512,
+          11.2194965
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "name": "Central Primary School",
+        "id": 5606844914,
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7835172,
+          11.2184686
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "name": "Universal basic dducation junior",
+        "id": 5606844915,
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1392719,
+          11.8043090
+        ]
+      },
+      "properties": {
+        "addr:city": "Maisandari",
+        "addr:street": "Damboa Road",
+        "amenity": "school",
+        "email": "aliyukermemahmud49@gmail.com",
+        "name": "Mafoni liberty Primary School",
+        "operator": "State Government",
+        "religion": "bahai",
+        "id": 5917897696,
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1396285,
+          11.8055693
+        ]
+      },
+      "properties": {
+        "addr:city": "Maisandari",
+        "addr:street": "Old GRA Maiduguri",
+        "amenity": "school",
+        "name": "Maiduguri International Scholl",
+        "operator": "Privately Operate",
+        "id": 5917934404,
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1356782,
+          11.8055678
+        ]
+      },
+      "properties": {
+        "addr:city": "Maisandari",
+        "addr:street": "Damboa Road",
+        "amenity": "school",
+        "name": "Mafoni Liberty Junior Secondary School",
+        "operator": "State Government",
+        "id": 5917938410,
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1489235,
+          11.8469076
+        ]
+      },
+      "properties": {
+        "addr:full": "Mafoni, Hausari, Maiduguri",
+        "amenity": "school",
+        "name": "Mohammed Goni College of Legal and Islamic Studies",
+        "operator:type": "public",
+        "id": 7817546689,
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1503022,
+          11.8456843
+        ]
+      },
+      "properties": {
+        "addr:full": "Mafoni, Hausari, Maiduguri",
+        "amenity": "school",
+        "name": "Mafoni Day Secondary School",
+        "operator:type": "public",
+        "id": 7817546690,
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1507581,
+          11.8448600
+        ]
+      },
+      "properties": {
+        "addr:full": "Mafoni, Hausari, Maiduguri",
+        "amenity": "school",
+        "name": "Mafoni Primary School",
+        "operator:type": "public",
+        "id": 7817546691,
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1087693,
+          11.8280958
+        ]
+      },
+      "properties": {
+        "addr:city": "Maiduguri",
+        "addr:street": "Jallaba Street",
+        "amenity": "school",
+        "name": "Abdullahi IBN Masud islamic School",
+        "religion": "muslim",
+        "id": 9042606919,
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1521735,
+          11.8153323
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "name": "Namu Model Model Secondary School",
+        "id": 11753035914,
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1212000,
+          10.4790700
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "name": "Durkwa Primary and Junior Secondary school",
+        "id": 13207021637,
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6756669,
+          12.9407991
+        ]
+      },
+      "properties": {
+        "addr:city": "Cross Kauwa",
+        "addr:postcode": "612102",
+        "addr:street": "Monguno - Kauwa Road",
+        "amenity": "school",
+        "education": "school",
+        "name": "Cross Kauwa Primary School",
+        "id": 13476535039,
+        "osm_type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1848633,
+          11.8172773
+        ]
+      },
+      "properties": {
+        "addr:city": "Mairi",
+        "addr:street": "Bama Road",
+        "amenity": "school",
+        "landuse": "education",
+        "name": "Federal Government College",
+        "id": 264962021,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8599648,
+          13.1164158
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "id": 322402599,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8469419,
+          12.8596848
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "id": 322574215,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6901008,
+          12.7168930
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "id": 322574662,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1788646,
+          12.4822292
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "id": 327684766,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1858162,
+          12.4923466
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "id": 327697507,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9360980,
+          12.4245513
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "id": 327708825,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2054515,
+          12.3785662
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "barrier": "wall",
+        "name": "Njemema Primary School",
+        "name:fr": "École Primaire de Njemema",
+        "id": 328227815,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3433994,
+          13.6193540
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "id": 330371346,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1473428,
+          12.7631754
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "id": 331424746,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9063796,
+          11.5251345
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "id": 331767446,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1169431,
+          12.0728272
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "id": 335148659,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6913772,
+          12.4330631
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "id": 358572697,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1693624,
+          10.6206635
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "fixme": "verify",
+        "id": 381163208,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1853690,
+          12.3416044
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "id": 388983410,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2399172,
+          11.8654602
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "name": "Muna Koreri",
+        "id": 479576534,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1196402,
+          11.8353132
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "name": "Yerma - Government Girls Secondary School (GGSS)",
+        "id": 586657402,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1385768,
+          11.8353417
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "name": "Universal basic education",
+        "id": 586657406,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1204719,
+          11.8320412
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "id": 586657407,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1530352,
+          11.8298530
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "id": 586657408,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1564042,
+          11.8323009
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "id": 586657409,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1667254,
+          11.8277949
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "id": 586657411,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1715194,
+          11.8267048
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "name": "Gwange III Primary School",
+        "id": 586657413,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1080574,
+          11.8243817
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "building": "yes",
+        "id": 693717883,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1079000,
+          11.8240814
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "id": 1078336457,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1820680,
+          11.8114084
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "education": "school",
+        "landuse": "education",
+        "name": "Goverment Secondary School",
+        "id": 1508852390,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1828110,
+          11.8098311
+        ]
+      },
+      "properties": {
+        "addr:city": "Mairi",
+        "addr:street": "Bama-Maiduguri Road",
+        "amenity": "school",
+        "education": "school",
+        "name": "Maimisari School",
+        "id": 1508852391,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1539668,
+          11.8154847
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "education": "school",
+        "landuse": "education",
+        "name": "Al-Ansar Academy",
+        "id": 1508852394,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1520675,
+          11.8153749
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "education": "school",
+        "landuse": "education",
+        "name": "Namu Model Secondary School",
+        "id": 1508852396,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1614739,
+          11.8204112
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "education": "language_school",
+        "landuse": "education",
+        "name": "Nigeria Arabic Language Village Ngala",
+        "id": 1508862153,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1152257,
+          11.8272672
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "education": "school",
+        "name": "North East Children’s Trust (NECT), The Learning Centre 1",
+        "id": 1508893154,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1628850,
+          11.8077187
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "education": "school",
+        "landuse": "education",
+        "name": "Model Orphanage Integrated School",
+        "id": 1508896551,
+        "osm_type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8347524,
+          10.8813525
+        ]
+      },
+      "properties": {
+        "amenity": "school",
+        "name": "Government Girls Secondary School Chibok",
+        "operator:type": "public",
+        "short_name": "GGSS Chibok",
+        "type": "multipolygon",
+        "id": 5410944,
+        "osm_type": "relation"
+      }
+    }
+  ]
+}
